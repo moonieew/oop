@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\QUANLYSHOP\QUANLYSHOP\bin\Debug\netcoreapp3.1\QUANLYSHOP.exe
+C:\Users\USER\Desktop\QUANLYSHOP\QUANLYSHOP\bin\Debug\netcoreapp3.1\QUANLYSHOP.deps.json
+C:\Users\USER\Desktop\QUANLYSHOP\QUANLYSHOP\bin\Debug\netcoreapp3.1\QUANLYSHOP.runtimeconfig.json
+C:\Users\USER\Desktop\QUANLYSHOP\QUANLYSHOP\bin\Debug\netcoreapp3.1\QUANLYSHOP.runtimeconfig.dev.json
+C:\Users\USER\Desktop\QUANLYSHOP\QUANLYSHOP\bin\Debug\netcoreapp3.1\QUANLYSHOP.dll
+C:\Users\USER\Desktop\QUANLYSHOP\QUANLYSHOP\bin\Debug\netcoreapp3.1\QUANLYSHOP.pdb
+C:\Users\USER\Desktop\QUANLYSHOP\QUANLYSHOP\obj\Debug\netcoreapp3.1\QUANLYSHOP.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\QUANLYSHOP\QUANLYSHOP\obj\Debug\netcoreapp3.1\QUANLYSHOP.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\QUANLYSHOP\QUANLYSHOP\obj\Debug\netcoreapp3.1\QUANLYSHOP.AssemblyInfo.cs
+C:\Users\USER\Desktop\QUANLYSHOP\QUANLYSHOP\obj\Debug\netcoreapp3.1\QUANLYSHOP.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\QUANLYSHOP\QUANLYSHOP\obj\Debug\netcoreapp3.1\QUANLYSHOP.dll
+C:\Users\USER\Desktop\QUANLYSHOP\QUANLYSHOP\obj\Debug\netcoreapp3.1\QUANLYSHOP.pdb
+C:\Users\USER\Desktop\QUANLYSHOP\QUANLYSHOP\obj\Debug\netcoreapp3.1\QUANLYSHOP.genruntimeconfig.cache

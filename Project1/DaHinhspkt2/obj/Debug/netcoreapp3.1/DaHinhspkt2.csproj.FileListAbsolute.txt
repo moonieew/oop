@@ -1,0 +1,13 @@
+E:\oop\19110413_19110055\Project1\DaHinhspkt2\bin\Debug\netcoreapp3.1\DaHinhspkt2.exe
+E:\oop\19110413_19110055\Project1\DaHinhspkt2\bin\Debug\netcoreapp3.1\DaHinhspkt2.deps.json
+E:\oop\19110413_19110055\Project1\DaHinhspkt2\bin\Debug\netcoreapp3.1\DaHinhspkt2.runtimeconfig.json
+E:\oop\19110413_19110055\Project1\DaHinhspkt2\bin\Debug\netcoreapp3.1\DaHinhspkt2.runtimeconfig.dev.json
+E:\oop\19110413_19110055\Project1\DaHinhspkt2\bin\Debug\netcoreapp3.1\DaHinhspkt2.dll
+E:\oop\19110413_19110055\Project1\DaHinhspkt2\bin\Debug\netcoreapp3.1\DaHinhspkt2.pdb
+E:\oop\19110413_19110055\Project1\DaHinhspkt2\obj\Debug\netcoreapp3.1\DaHinhspkt2.csprojAssemblyReference.cache
+E:\oop\19110413_19110055\Project1\DaHinhspkt2\obj\Debug\netcoreapp3.1\DaHinhspkt2.AssemblyInfoInputs.cache
+E:\oop\19110413_19110055\Project1\DaHinhspkt2\obj\Debug\netcoreapp3.1\DaHinhspkt2.AssemblyInfo.cs
+E:\oop\19110413_19110055\Project1\DaHinhspkt2\obj\Debug\netcoreapp3.1\DaHinhspkt2.csproj.CoreCompileInputs.cache
+E:\oop\19110413_19110055\Project1\DaHinhspkt2\obj\Debug\netcoreapp3.1\DaHinhspkt2.dll
+E:\oop\19110413_19110055\Project1\DaHinhspkt2\obj\Debug\netcoreapp3.1\DaHinhspkt2.pdb
+E:\oop\19110413_19110055\Project1\DaHinhspkt2\obj\Debug\netcoreapp3.1\DaHinhspkt2.genruntimeconfig.cache
